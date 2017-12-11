@@ -1,6 +1,9 @@
 {
     "hotel": [
         { "id":1, "nama":"7 Bidadari Boutique Seminyak", "alamat":"Jl. Bidadari IV No 7 Seminyak" },
-        { "id":2, "nama":"88 Mangga Besar VIII", "alamat":"Jl Mangga Besar VIII NO 10D Barat" }
+        { "id":2, "nama":"88 Mangga Besar VIII", "alamat":"Jl Mangga Besar VIII NO 10D Barat" },
+        { "id":3, "nama":"Hotel Kudus", "alamat":"Jalan Tanjung No.14-16 Kudus" }
+        { "id":4, "nama":"Hotel Tambun", "alamat":"Komplek Metland Tambun" }
+        { "id":5, "nama":"Platinum Gowongan", "alamat":"Jl.Gowongan Kidul No.57" }
     ]
 }
