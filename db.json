@@ -3,12 +3,12 @@
         { "id":1,
           "nama":"7 Bidadari Boutique Seminyak", 
           "alamat":"Jl. Bidadari IV No 7 Seminyak",
-          "keyword":""
+          "keyword":"Bidadari"
         },
         { "id":2, 
           "nama":"88 Mangga Besar VIII", 
           "alamat":"Jl Mangga Besar VIII NO 10D Barat", 
-          "keyword":""
+          "keyword":"Mangga"
         },
         { "id":3, 
           "nama":"Hotel Kudus", 
