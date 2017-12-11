@@ -1,6 +1,6 @@
 {
     "hotel": [
-        { "id":1, "nama":7 Bidadari Boutique Seminyak, "alamat":Jl. Bidadari IV No 7 Seminyak },
-        { "id":2, "nama":88 Mangga Besar VIII, "alamat":Jl Mangga Besar VIII NO 10D Barat }
+        { "id":1, "nama":"7 Bidadari Boutique Seminyak", "alamat":"Jl. Bidadari IV No 7 Seminyak" },
+        { "id":2, "nama":"88 Mangga Besar VIII", "alamat":"Jl Mangga Besar VIII NO 10D Barat" }
     ]
 }
