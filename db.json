@@ -1,7 +1,7 @@
 {
     "hotel" : [
-        { "id":1, "name":"Hotel", "nama":"Hotel Kudus" }
-        { "id":2, "name":"Hotel", "nama":"Hotel 88" }
+        { "id":1, "name":"Hotel", "nama":"Hotel Kudus" },
+        { "id":2, "name":"Hotel", "nama":"Hotel 88" },
         { "id":3, "name":"Hotel", "nama":"Hotel Pasar Besar" }
     ]
 }
